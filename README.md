@@ -1,4 +1,4 @@
-File Transfer Application
+###File Transfer Application
 Overview
 Introduction This File Transfer Application is designed to enable seamless and secure transfer of small files between users. The application leverages socket.io for real-time communication and ensures a responsive and user-friendly interface. Key features include user registration, login functionalities, secure data transfer, and real-time progress updates.
 
